@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "venda",
+      "price": 12500,
+      "createdAt": "2023-03-16T20:06:21.298Z"
+    },
+    {
+      "id": 2,
+      "description": "Acasa",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-15T20:06:21.298Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 250,
+      "createdAt": "2023-02-15T20:06:21.298Z"
+    },
+    {
+      "description": "academia",
+      "category": "Saude",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2023-03-20T22:30:11.505Z",
+      "id": 4
+    },
+    {
+      "description": "asdasd",
+      "category": "aaa",
+      "price": 111,
+      "type": "income",
+      "createdAt": "2023-03-20T22:49:45.498Z",
+      "id": 5
+    },
+    {
+      "description": "comida",
+      "category": "Alimentação",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2023-03-20T22:57:23.238Z",
+      "id": 6
+    },
+    {
+      "description": "roupas",
+      "category": "compra",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2023-03-20T22:59:16.673Z",
+      "id": 7
+    }
+  ]
+}
